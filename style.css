@@ -37,6 +37,11 @@ svg {
   justify-content: space-between;
   width: 100%;
   min-height: 30px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
 }
 
 /* FAQ */
@@ -45,15 +50,9 @@ svg {
   color: #fff;
   padding: 5px;
   margin: 40px 10px 20px 300px;
-
   min-width: 23px;
   min-height: 21px;
-
   font-family: "Roboto", Arial, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 21px;
 }
 
 /* Контакты */
@@ -64,12 +63,7 @@ svg {
   margin: 40px 20px 20px 100px;
   min-width: 23px;
   min-height: 21px;
-
   font-family: "Roboto", Arial, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 21px;
 }
 
 /* Вход */
@@ -79,12 +73,7 @@ svg {
   margin: 40px 20px 20px auto;
   min-width: 23px;
   min-height: 21px;
-
   font-family: "Oswald", "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 21px;
 }
 a:hover {
   color: rgb(204, 18, 18);
@@ -186,6 +175,12 @@ a:hover {
   justify-content: space-between;
   align-items: flex-end;
   width: 100%;
+
+  font-family: "PT Sans", "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
 }
 
 /* ДТП */
@@ -197,12 +192,6 @@ a:hover {
   width: auto;
   height: 21px;
   flex: 0 1 auto;
-
-  font-family: "PT Sans", "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 23px;
 }
 /* Розыск */
 .menu4 {
@@ -212,12 +201,6 @@ a:hover {
   width: auto;
   height: 21px;
   flex: 0 1 auto;
-
-  font-family: "PT Sans", "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 23px;
 }
 /* Обременения */
 .menu5 {
@@ -227,12 +210,6 @@ a:hover {
   width: auto;
   height: 21px;
   flex: 0 1 auto;
-
-  font-family: "PT Sans", "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 23px;
 }
 /* Тех. обслуживание */
 .menu6 {
@@ -242,12 +219,6 @@ a:hover {
   width: auto;
   height: 21px;
   flex: 0 1 auto;
-
-  font-family: "PT Sans", "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 23px;
 }
 /* ИСПОЛЬЗОВАНИЕ В ТАКСИ */
 .menu7 {
@@ -257,10 +228,4 @@ a:hover {
   width: auto;
   height: 21px;
   flex: 0 1 auto;
-
-  font-family: "PT Sans", "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 23px;
 }
